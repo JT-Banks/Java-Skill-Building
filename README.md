@@ -4,7 +4,7 @@
 This repository's purpose is to demostrate what I've practiced on my own free time to help build my skills and understanding with Java.
 The code here is problems I've solved personally. I am very passionate about what I know, and even a bit more passionate about what I do not know, because real knowledge is knowing the extent of your own ignorance.
 
-### The code is divided into two classes, the main class [insert class name here] is used to execute seperate methods from the [insert class name].
+### The code is divided into two classes, the main class [CodingBat.java] is used to execute seperate methods from several other classes that are specific exercises: [Array_1.java, Maps.java, Solution.java, WarmUp_1.java, Warmup_2.java].
 Depending on the return type, you may have to declare specific data types, for example:
 
 If the method is returning an array:
