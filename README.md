@@ -22,4 +22,4 @@ System.out.println(arrayProblem(array))
 Other methods have the same format, so please replicate similar methods.
 
 ### _This repo consists primarily of coding challenges taken from CodingBat, but may include other challenges from similar websites in the future._
-_In Progress - Currently working on comment every method with specific exercise instructions so that desired output can be tested, and verified._
+_In Progress - Currently working on commenting every method with specific exercise instructions so that desired output can be tested, and verified._
